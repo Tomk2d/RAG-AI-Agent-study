@@ -34,7 +34,6 @@ MANIFEST
 poetry.lock
 
 # Submodules and embedded repos
-langchain-kr/
 
 # Virtual environments
 venv/
